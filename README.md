@@ -33,7 +33,7 @@
     <h2 align="left"> 📝 - 𝐂𝐨𝐧𝐭𝐚𝐜𝐭-𝐌𝐞 - 📝 </h2>
 <p style="text-align: center;">
     <a href="https://discord.me/j_hoover" target="_blank">
-        <img src="https://img.shields.io/badge/MonDiscord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" style="display: block; margin: 0 auto;">
+        <img src="https://img.shields.io/badge/Mon Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" style="display: block; margin: 0 auto;">
     </a>
 </p>
 </div>
