@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=0e37eff&center=true&random=true&lines=Hades+,16 ans+Futur Grey Hat;Dev+%26+Python+Javascript+CSS+HTML;Apprend+PHP%26+et le CSS%20" width="45%" />
+<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=0e37eff&center=true&random=true&lines=Cybersec+Etudiant+16 ans;Apprend+%26+Python+Javascript+Html%26+C++%20Language" width="45%" />
 <br><br>
 <pre>
 📚 16 ans    
