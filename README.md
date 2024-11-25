@@ -5,5 +5,4 @@
   🔎 AhScrapper permet de prendre les informations d'un gunslol (background,music,cursor)
   </pre>
 </div>
-![image](https://github.com/username/repository/blob/main/assets/your-image.png?raw=true)
 
