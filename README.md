@@ -4,7 +4,7 @@
 <pre>
 📚 16 ans    
 📰 Cybersecurity student
-🔎 Apprend le C++ / PHP
+🔎 Apprend le C# / PHP
 </pre>
 </div>
 
