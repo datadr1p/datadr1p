@@ -1,5 +1,5 @@
 <p align="center">
-![hades](https://github.com/user-attachments/assets/521f277b-21b5-43de-9736-9b4d19b7b7d5)
+  <img src="https://github.com/user-attachments/assets/521f277b-21b5-43de-9736-9b4d19b7b7d5" alt="hades" />
 </p>
 
 <p align="center">
