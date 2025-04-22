@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0AFFEF&center=true&random=true&lines=Étudiant+en+CyberSécurité;+17+ans+👨‍💻;+Python,+JS,+HTML/CSS+✔;&Apprend+C#+et+PHP" width="65%"/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=I+am+Hades;Future+in+cybersecurity;python+developer%2C+full+stack)](https://git.io/typing-svg)
 
   <br>
 
