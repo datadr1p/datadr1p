@@ -55,7 +55,7 @@ Hobbies:     💪 Fitness
 
 ### 📫 Contact Me
 <a href="https://discord.com/users/1262480537550065825"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F12%2FDiscord-Emblema.png&f=1&nofb=1&ipt=f4c9c0c4187fdf0847495bd5c4af848240baec0d3d0ea2463a780f06c8db2df9" width="65" height="40"></a>
-<a href="https://t.me/hadesdu"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F024%2F039%2F108%2Flarge_2x%2Ftelegram-logo-transparent-free-png.png&f=1&nofb=1&ipt=e17580ce62a812a3ed5dc667fdc6bc8bcd4f98a285d5f03bb2eeeeff847fe352" width="65" height="40"></a>
+<a href="https://t.me/hadesdu"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F024%2F039%2F108%2Flarge_2x%2Ftelegram-logo-transparent-free-png.png&f=1&nofb=1&ipt=e17580ce62a812a3ed5dc667fdc6bc8bcd4f98a285d5f03bb2eeeeff847fe352" width="65" height="65"></a>
 
 
 
