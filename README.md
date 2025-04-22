@@ -13,11 +13,11 @@
 ### 🧠 About Me
 
 ```yaml
-Name:        Hades
-Age:         17
-Education:   Cybersecurity Student 👨‍💻
-Languages:   Python | JavaScript | HTML/CSS | C# (learning) | PHP (learning)
-Hobbies:     💪 Fitness
+Name: Hades
+Age: 17
+Education: Cybersecurity Student 👨‍💻
+Languages: Python | JavaScript | HTML/CSS | C# (learning) | PHP (learning)
+Hobbies: 💪 Fitness
 ```
 ---
 
