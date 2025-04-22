@@ -33,7 +33,6 @@ Hobbies: 💪 Fitness
 ### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnEdgarHoover&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEdgarHoover&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
