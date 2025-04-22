@@ -14,11 +14,12 @@
 
   <br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=tonpseudo&theme=dracula&margin-w=15&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=JohnEdgarHoover&theme=dracula&margin-w=15&no-frame=true" />
+
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonpseudo&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnEdgarHoover&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
