@@ -54,7 +54,8 @@ Hobbies:     💪 Fitness
 ---
 
 ### 📫 Contact Me
-- [![Discord Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo.svg)](https://discord.com/users/1262480537550065825)
+- [![Discord Logo](https://cdn.discordapp.com/icons/discordapp.com/a7/Discord_logo.svg)](https://discord.com/users/1262480537550065825)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" alt="Wave" />
