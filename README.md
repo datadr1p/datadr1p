@@ -28,7 +28,7 @@
 ### 🧠 À propos de moi
 
 ```yaml
-Nom:        Hades / Ton Pseudo
+Nom:        Hades
 Âge:        17 ans
 Études:     Étudiant en Cybersécurité 🧑‍💻
 Langages:   Python | JavaScript | HTML/CSS | C# (en cours) | PHP (en cours)
