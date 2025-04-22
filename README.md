@@ -54,7 +54,8 @@ Hobbies:     💪 Fitness
 ---
 
 ### 📫 Contact Me
-- [![Discord Logo](https://cdn.discordapp.com/icons/discordapp.com/a7/Discord_logo.svg)](https://discord.com/users/1262480537550065825)
+- [![Discord Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F12%2FDiscord-Emblema.png&f=1&nofb=1&ipt=f4c9c0c4187fdf0847495bd5c4af848240baec0d3d0ea2463a780f06c8db2df9)](https://discord.com/users/1262480537550065825)
+
 
 
 
