@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0AFFEF&center=true&random=true&lines=Étudiant+en+CyberSécurité;+17+ans+%F0%9F%91%A8%F0%9F%94%AB;+Python,+JS,+HTML/CSS+%E2%9C%94;%26+Apprend+C%23+et+PHP" width="65%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0AFFEF&center=true&random=true&lines=Étudiant+en+CyberSécurité;+17+ans+👨‍💻;+Python,+JS,+HTML/CSS+✔;&Apprend+C#+et+PHP" width="65%"/>
 
   <br>
 
