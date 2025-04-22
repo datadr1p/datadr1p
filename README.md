@@ -8,8 +8,9 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=JohnEdgarHoover&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub de JohnEdgarHoover" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEdgarHoover&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés par JohnEdgarHoover" />
+
 
   <br><br>
 
