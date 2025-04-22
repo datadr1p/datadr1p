@@ -19,13 +19,14 @@ Education:   Cybersecurity Student 👨‍💻
 Languages:   Python | JavaScript | HTML/CSS | C# (learning) | PHP (learning)
 Hobbies:     💪 Fitness
 ```
-![snakehades](https://github.com/user-attachments/assets/c8205a36-0d3c-430f-83be-2fc42639ee23)
 ---
 
 ### 🛠️ Skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,php,cs,github" alt="Skills" />
 </p>
+
+![snakehades](https://github.com/user-attachments/assets/c8205a36-0d3c-430f-83be-2fc42639ee23)
 
 ---
 
