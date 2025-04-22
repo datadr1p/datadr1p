@@ -1,9 +1,7 @@
-<!-- Banner Image -->
 <p align="center">
 ![hades](https://github.com/user-attachments/assets/521f277b-21b5-43de-9736-9b4d19b7b7d5)
 </p>
 
-<!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=I+am+Hades;Future+in+Cybersecurity;Python+Developer,+Full+Stack" alt="Typing SVG" />
@@ -55,5 +53,4 @@ Hobbies:     💪 Fitness
 ---
 
 ### 📫 Contact Me
-- Discord: `Hades#0000`
-- Email: `hades@protonmail.com`
+- Discord: `john_edgar_hoover`
