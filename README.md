@@ -1,9 +1,6 @@
-
-<!-- README.md -->
-
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1605902711622-cfb43c4437b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="Cybersecurity Banner" width="100%" />
+![hades](https://github.com/user-attachments/assets/521f277b-21b5-43de-9736-9b4d19b7b7d5)
 </p>
 
 <!-- Typing SVG -->
