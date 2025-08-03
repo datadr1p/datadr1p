@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=I+am+Hades;Student+in+Cybersecurity;Python,+Full+Stack,Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=I+am+Dr1p;Student+in+Cybersecurity;Python,+Full+Stack,Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 ```yaml
-Name: Hades
+Name: Dr1p
 Age: 17
 Education: Cybersecurity Student 👨‍💻
 Languages: Python | JavaScript | HTML/CSS | C# (learning) | PHP (learning)
