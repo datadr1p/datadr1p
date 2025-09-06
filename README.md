@@ -40,14 +40,14 @@ Hobbies: 💪 Fitness
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnEdgarHoover&theme=dracula&margin-w=15&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=datadr1p&theme=dracula&margin-w=15&no-frame=true" alt="Trophies" />
 </p>
 
 ---
 
 ### 🔍 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnEdgarHoover&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datadr1p&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
