@@ -56,4 +56,4 @@ Hobbies: 💪 Fitness
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=150&section=footer&text=&fontSize=24&fontAlignY=80" alt="Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=90" alt="Wave" />
